@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# exclude cmake files
+**/.cmake
+
+#exclude build folder
+**/build
