@@ -1,11 +1,11 @@
 cmake_minimum_required( VERSION 3.5.1 )
 
-project( chrono-app LANGUAGES C CXX )
+project( data-types LANGUAGES C CXX )
 
 set( CMAKE_CXX_STANDARD 14 )
 
-add_executable( chrono-app
-  fileoperation.cpp
+add_executable( data-types
+  data-types.cpp
 )
 
 # target_link_libraries( ${PROJECT}

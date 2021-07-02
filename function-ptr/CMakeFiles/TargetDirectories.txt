@@ -1,0 +1,3 @@
+/home/aganesa2/git/personal/cpp-world/function-ptr/CMakeFiles/rebuild_cache.dir
+/home/aganesa2/git/personal/cpp-world/function-ptr/CMakeFiles/chrono-app.dir
+/home/aganesa2/git/personal/cpp-world/function-ptr/CMakeFiles/edit_cache.dir
